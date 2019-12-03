@@ -55,7 +55,7 @@ Our application makes use of  5 main waypoints (See Figure 4). The first three w
 
 
  
-![Figure4](Screen Shot 2019-12-03 at 2.05.49 AM.png) 
+![Figure4](fiveimages.png) 
 Figure 4: Five waypoints: Leaf in clay base, mold with plaster poured, Leaf in mold, animation of process, and final metal molded leaf
 
 This is followed by the animation that takes the user through the full lifecasting process and then the final molded metal leaf. There are white arrows in worldspace places between each successive waypoint, so that the user can easily find the next waypoint. At any given view of the application, users will be able to see the progression between the waypoints so that they can effortlessly go through the entire process of life casting that we are showcasing.
