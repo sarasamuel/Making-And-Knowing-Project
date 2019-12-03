@@ -2,6 +2,8 @@
 Making and Knowing AR Project
 Authors: Sara Samuel, Vivien Ngo, Shreya Vaidyanathan, Edith Comas
 
+Video demonstration: https://www.youtube.com/watch?v=LHluRfjWgGk
+
 I. Introduction
 
 “How is it Made?” is our Augmented Reality application that lets users visualize and learn life casting/mould-making done at the Columbia University Making and Knowing laboratory. Our primary goal for this project is to take the user through the process and history of lifecasting of a leaf in an interactive and engaging manner.
