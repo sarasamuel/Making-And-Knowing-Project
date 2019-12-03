@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{C856AF36-1C29-BE50-6D6B-D06CEC031BDB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/pour.cs">
+    <Files>
+      <File FileName="Assets/scaling.cs" Line="9" Column="13" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARHitTestExample.cs" Line="111" Column="7" />
+      <File FileName="Assets/hide_hotspots.cs" Line="19" Column="14" />
+      <File FileName="Assets/zoom_on_doubletap.cs" Line="45" Column="46" />
+      <File FileName="Assets/Cursor/CursorManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/close_textbox.cs" Line="20" Column="9" />
+      <File FileName="Assets/Scripts/ShowGallery.cs" Line="28" Column="1" />
+      <File FileName="Assets/Fade_Menu.cs" Line="2" Column="34" />
+      <File FileName="Assets/zoom_map_appear.cs" Line="8" Column="19" />
+      <File FileName="Assets/pour.cs" Line="36" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
