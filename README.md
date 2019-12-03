@@ -7,6 +7,7 @@ Video demonstration: https://www.youtube.com/watch?v=LHluRfjWgGk
 I. Introduction
 
 “How is it Made?” is our Augmented Reality application that lets users visualize and learn life casting/mould-making done at the Columbia University Making and Knowing laboratory. Our primary goal for this project is to take the user through the process and history of lifecasting of a leaf in an interactive and engaging manner.
+
 II. Instructions and Interactions
 
 Initially, the user must hold their phone above a flat surface, so that the application can detect a ground plane. A well-lit space works best, and the ARKit will soon show yellow particle effects detecting features as the application looks for a ground plane. When the ground plane is detected, a blue box will appear around its area. The user must then tap within the blue box. This sets up the entire scene and the user will initially see that the green leaf model appear at the point of touch in the center of the mobile device’s screen.
